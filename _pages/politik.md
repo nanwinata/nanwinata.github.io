@@ -1,7 +1,7 @@
 ---
 layout: tags
-title: Tags
-permalink: /tags
+title: Politik
+permalink: /politik
 ---
             <!-- Post Tags -->
             <div class="after-post-tags">
