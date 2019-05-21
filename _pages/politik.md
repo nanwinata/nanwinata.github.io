@@ -11,7 +11,7 @@ permalink: /politik
     </div>
 
     <div class="article-post">
-    {{content}}
+    {{site.categories}}
     </div>
 
     {% if page.comments == true %}
