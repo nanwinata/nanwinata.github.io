@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: categories
 title: Politik 
 permalink: /politik
-comments: true
 permalink: "/categories.html"
 ---
 
