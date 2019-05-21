@@ -1,17 +1,25 @@
 ---
-layout: page
+layout: default
 title: Politik 
 permalink: /politik
 comments: true
 ---
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+    <div class="article-post">
+    {{content}}
+    </div>
 
-<p>page tentang politik.</p>
+    {% if page.comments == true %}
 
+    <div id="comments" class="row mb-5">
+        <div class="col-md-8">
+            {% include disqus.html %}
+        </div>
+    </div>
 
-
-
-</div>
-</div>
+    {% endif %}
+</section>
