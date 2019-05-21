@@ -4,7 +4,7 @@ categories:
 title: Politik 
 permalink: /politik
 ---
-            <!-- Post Categories -->
+<!-- Post Categories -->
             <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
@@ -15,4 +15,4 @@ permalink: /politik
                     {% endfor %}
                 </ul>
             </div>
-            <!-- End Categories -->
+<!-- End Categories -->
