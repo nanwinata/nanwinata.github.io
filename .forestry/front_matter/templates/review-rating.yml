@@ -1,0 +1,34 @@
+---
+label: review+rating
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: featured
+  label: featured
+- type: boolean
+  name: hidden
+  label: hidden
+- type: number
+  name: rating
+  label: rating
