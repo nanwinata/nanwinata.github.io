@@ -3,8 +3,7 @@ layout: tags
 title: Politik
 permalink: /politik
 ---
-            <!-- Post Tags -->
-            <div class="after-post-tags">
+<div class="after-post-tags">
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
@@ -14,4 +13,3 @@ permalink: /politik
                     {% endfor %}
                 </ul>
             </div>
-            <!-- End Tags -->
