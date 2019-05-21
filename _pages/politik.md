@@ -1,9 +1,8 @@
 ---
-tag: Tutorial
-permalink: "/politik
-title: Politik
+layout: tags
+title: Tags
+permalink: /tags
 ---
-            
             <!-- Post Tags -->
             <div class="after-post-tags">
                 <ul class="tags">
