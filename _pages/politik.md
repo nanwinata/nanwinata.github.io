@@ -1,8 +1,8 @@
-            ---
+          ---
             tag: Tutorial
             permalink: "/politik/
             Title: Politik
-          
+          ---
             
             <!-- Post Tags -->
             <div class="after-post-tags">
