@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apa film setelah Game of Thrones ?
+title: Game of thrones
 author: admin
 categories:
 - Jekyll
