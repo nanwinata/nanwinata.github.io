@@ -1,9 +1,9 @@
 ---
-layout: default
-categories: politik
+layout: categories
+categories: 
+- politik
 title: Politik 
 ---
-            <!-- Post Categories -->
             <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
@@ -14,4 +14,3 @@ title: Politik
                     {% endfor %}
                 </ul>
             </div>
-            <!-- End Categories -->
