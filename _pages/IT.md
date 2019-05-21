@@ -1,6 +1,6 @@
 ---
 layout: page
-title: root@nan:~
+title: Teknologi & Informasi.
 permalink: /IT
 comments: true
 ---
