@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: categories
 title: Politik
 permalink: /politik
 ---
@@ -8,7 +8,7 @@ permalink: /politik
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#tutorial{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
