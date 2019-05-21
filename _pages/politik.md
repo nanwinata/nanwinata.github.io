@@ -1,6 +1,5 @@
 ---
-layout: categories
-tags: tutorial
+tag: tutorial
 title: Politik
 permalink: /politik
 ---
