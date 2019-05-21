@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: root@nan:~
 permalink: /about
 comments: true
 ---
@@ -12,6 +12,6 @@ comments: true
 
 
 
-</div>
+
 </div>
 </div>
