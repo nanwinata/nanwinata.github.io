@@ -9,7 +9,7 @@ title: Politik
     {% assign sortedCategories = page.categories | sort %}
     {% for category in sortedCategories %}
         <span class="tag">
-            <a href="/category/{{ category }}">#{{ category }}</a>
+            <a href="/category/{{ category }}">#{{ tutorial }}</a>
         </span>
     {% endfor %}
 </div>
