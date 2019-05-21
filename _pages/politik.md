@@ -1,13 +1,3 @@
----
-enabled: all
-enabled:
-  - categories
-enabled:
-  - year
-  - month
-  - tags
-  ---
-  
 <h1>Archive of posts from {{ page.date | date: "%B %-d, %Y" }}</h1>
 
 <ul class="posts">
