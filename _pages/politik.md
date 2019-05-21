@@ -1,6 +1,6 @@
 ---
 layout: page
-title: root@nan:~
+title: Politik 
 permalink: /politik
 comments: true
 ---
