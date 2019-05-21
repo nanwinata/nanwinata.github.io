@@ -1,5 +1,4 @@
 ---
-layout: default
 categories: tutorial
 title: Politik 
 permalink: /politik
