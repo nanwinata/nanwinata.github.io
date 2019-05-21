@@ -1,7 +1,7 @@
 # Site
-name: "root@nan:~"
-title: "a journey.."
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Home"
+title: "root@nan~"
+description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -16,7 +16,7 @@ authors:
   admin:
     name: admin
     display_name: nan
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 918eef27057fe4886ec8ae10e86ed57e
     email: nanwinata@gmail.com
     web: https://nanwinata.github.io
     twitter: https://twitter.com/enanwn
