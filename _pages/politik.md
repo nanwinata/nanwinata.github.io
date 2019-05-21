@@ -3,23 +3,23 @@ layout: default
 title: Politik 
 permalink: /politik
 comments: true
+permalink: "/categories.html"
 ---
-<section>
-    <div class="section-title">
-        <h2><span>{{ page.title }}</span></h2>
-    </div>
 
-    <div class="article-post">
-    {{content}}
-    </div>
-
-    {% if page.comments == true %}
-
-    <div id="comments" class="row mb-5">
-        <div class="col-md-8">
-            {% include disqus.html %}
-        </div>
-    </div>
-
-    {% endif %}
-</section>
+<div class="row listrecent">
+{% for category in site.categories %}
+<div class="section-title col-md-12 mt-4">
+<h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
+</div>
+{% assign pages_list = category[1] %}
+{% for post in pages_list %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+{% endfor %}
+</div>
