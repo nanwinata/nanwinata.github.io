@@ -2,7 +2,6 @@
 layout: categories
 title: Politik 
 permalink: /politik
-permalink: "/categories.html"
 ---
 
 <div class="row listrecent">
