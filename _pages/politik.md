@@ -1,9 +1,26 @@
 ---
+layout: default
 categories:
 - tutorial
 title: Politik 
 permalink: /politik
 ---
-<div class="row listrecent">
-{% for category in site.categories %}
-</div>
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
+
+    <div class="article-post">
+    {{content}}
+    </div>
+
+    {% if page.comments == true %}
+
+    <div id="comments" class="row mb-5">
+        <div class="col-md-8">
+            {% include disqus.html %}
+        </div>
+    </div>
+
+    {% endif %}
+</section>
