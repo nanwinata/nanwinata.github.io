@@ -26,3 +26,5 @@ Kangen Westeros? Pasti, karena disini penonton akan dimanjakan lagi dengan Weste
 Kabar berhembus kalau George R R Martin didampingi Jane Goldman yang akan turun s membuat prequel ini. Menarik untuk ditunggu siapa actor dan actress yang ambil bagian dalam prequel ini. Apakah lagi akan melibatkan orang-orang lama di Game of Thrones kemarin atau bintang-bintang baru ?
 
 Kapan pembuatannya di mulai? baiknya kita tunggu saja kabarnya dari HBO.
+
+Valar Morghulis
