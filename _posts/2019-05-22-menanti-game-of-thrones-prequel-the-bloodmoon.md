@@ -10,7 +10,7 @@ tags:
 - Film
 image: "/uploads/bloodmoon.jpg"
 description: ''
-featured: false
+featured: true
 hidden: false
 rating: 5
 
