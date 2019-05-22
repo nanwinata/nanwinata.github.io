@@ -5,7 +5,7 @@ author: admin
 categories:
 - politik
 image: assets/images/12.jpg
-featured: true
+featured: false
 hidden: true
 
 ---
