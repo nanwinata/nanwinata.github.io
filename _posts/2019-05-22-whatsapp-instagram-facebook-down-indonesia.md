@@ -5,7 +5,7 @@ author: admin
 categories:
 - Politik
 - IT
-image: "/uploads/igfbwa.jpg"
+image: "/uploads/igfbwa-1.jpg"
 
 ---
 Baru-baru ini Menko Polhukam Wiranto membuat Indonesia geger dengan pemblokiran beberapa media sosial. Apa  yang terjadi sebenarnya? Benarkah media sosialnya di blokir?
