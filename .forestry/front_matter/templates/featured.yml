@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: hidden
   label: hidden
+pages:
+- _posts/2019-05-22-whatsapp-instagram-facebook-down-indonesia.md

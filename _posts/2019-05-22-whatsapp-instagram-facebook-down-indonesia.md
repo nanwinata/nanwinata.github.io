@@ -6,6 +6,8 @@ categories:
 - Politik
 - IT
 image: https://nanwinata.github.io/assets/images/fbdown.png
+featured: true
+hidden: true
 
 ---
 Baru-baru ini Menko Polhukam Wiranto membuat Indonesia geger dengan pemblokiran beberapa media sosial. Apa  yang terjadi sebenarnya? Benarkah media sosialnya di blokir?
@@ -14,8 +16,10 @@ Yang bertanggung jawab mengurusi    lalu lintas _traffic_ media sosial hanya mem
 
 Apa itu CDN? CDN adalah _Content Delivery Network_ yang fungsinya mempercepat pengiriman konten statis seperti video, gambar, css , javascript dan lain-lain. Ketika host CDNnya di blokir maka user yang menggunakan media sosial tersebut tidak akan bisa membuka konten dan yang pasti tidak akan bisa upload konten tersebut dikarenakan semuanya melewati CDN ini.
 
+    <span class="spoiler"> 
     facebook cdn: *.fbcdn.net
     instagram cdn: *.cdninstagram.com
+    </span>
 
 Jadi , siapa yang bisa memblokir ini? Tentu saja penyedia layanan internet publik yang diminta pemerintah untuk melakukan pemblokiran CDN konten ini.
 
@@ -25,4 +29,4 @@ Sebut saja instagram dengan _instagram advertising, facebook advertising_ menggu
 
 Pengguna internet di indonesia bisa saja mengakali ini dengan menggunakan VPN, tetapi tentu saja tidak semua pengguna media bisa dan mengerti cara menggunakan VPN ini. Terlebih lagi VPN tidak menjamin privacy penggunanya yang tentu saja sangat mengkhawatirkan akan terjadi hal-hal  yang jauh lebih berbahaya.
 
-Sebaiknya pemerintah berpikir ulang dulu sebelum memutuskan sesuatu dikarenakan dampaknya cukup lumayan. Walaupun pemblokiran ini hanya untuk jangka waktu yang sementara. 
+Sebaiknya pemerintah berpikir ulang dulu sebelum memutuskan sesuatu dikarenakan dampaknya cukup lumayan. Walaupun pemblokiran ini hanya untuk jangka waktu yang sementara.
