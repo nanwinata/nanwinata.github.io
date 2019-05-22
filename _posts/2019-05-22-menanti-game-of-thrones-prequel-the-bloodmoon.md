@@ -8,7 +8,7 @@ tags:
 - Gameofthrones
 - Bloodmoon
 - Film
-image: "/uploads/bloodmoon.jpg"
+image: "https://nanwinata.me/assets/images/bloodmoon.jpg"
 description: ''
 featured: true
 hidden: false
