@@ -2,8 +2,7 @@
 layout: post
 title: Let's test spoilers
 author: admin
-categories:
-- politik
+categories: []
 image: assets/images/12.jpg
 featured: false
 hidden: true
