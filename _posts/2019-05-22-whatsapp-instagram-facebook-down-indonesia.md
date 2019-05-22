@@ -12,7 +12,7 @@ hidden: false
 ---
 Baru-baru ini Menko Polhukam Wiranto membuat Indonesia geger dengan pemblokiran beberapa media sosial. Apa  yang terjadi sebenarnya? Benarkah media sosialnya di blokir?
 
-Yang bertanggung jawab mengurusi    lalu lintas _traffic_ media sosial hanya memblokir layangan CDN beberapa medial sosial tersebut.
+Yang bertanggung jawab mengurusi    lalu lintas _traffic_ media sosial di Indonesia hanya memblokir layangan CDN beberapa medial sosial tersebut.
 
 Apa itu CDN? CDN adalah _Content Delivery Network_ yang fungsinya mempercepat pengiriman konten statis seperti video, gambar, css , javascript dan lain-lain. Ketika host CDNnya di blokir maka user yang menggunakan media sosial tersebut tidak akan bisa membuka konten dan yang pasti tidak akan bisa upload konten tersebut dikarenakan semuanya melewati CDN ini.
 
