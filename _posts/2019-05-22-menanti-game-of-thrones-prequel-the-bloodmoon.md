@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menanti Game of thrones prequel "The Bloodmoon"
+title: 'Game of thrones prequel : The Bloodmoon'
 author: admin
 categories:
 - Film
@@ -8,8 +8,8 @@ tags:
 - Gameofthrones
 - Bloodmoon
 - Film
-image: "https://nanwinata.github.io/uploads/bloodmoon.jpg
-description: The Bloodmoon
+image: "/uploads/bloodmoon.jpg"
+description: ''
 featured: true
 hidden: false
 rating: 5
