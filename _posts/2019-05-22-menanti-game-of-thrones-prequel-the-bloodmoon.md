@@ -12,7 +12,7 @@ image: "/uploads/bloodmoon.jpg"
 description: The Bloodmoon
 featured: true
 hidden: false
-rating: 5.0
+rating: 5
 
 ---
 Apa yang paling di tunggu pecinta Game Of Thrones di dunia setelah berakhirnya final season 8 ini? Yap, tentu saja Game of Thrones prequel yang akan diberi judul "The Bloodmoon".
