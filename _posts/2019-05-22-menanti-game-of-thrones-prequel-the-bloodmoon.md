@@ -24,3 +24,5 @@ Disini cerita akan diambil 6000 tahun sebelum Bran Stark di dorong oleh Jaime La
 Kangen Westeros? Pasti, karena disini penonton akan dimanjakan lagi dengan Westeros tempo dulu sebelum Game of Thrones ini dimulai. HBO sendiri yang akan membuat prequel ini dan Game of Thrones creators and executive producers David Benioff and D. B. Weiss dipastikan tidak akan ikut lagi di prequel ini.
 
 Kabar berhembus kalau George R R Martin didampingi Jane Goldman yang akan turun s membuat prequel ini. Menarik untuk ditunggu siapa actor dan actress yang ambil bagian dalam prequel ini. Apakah lagi akan melibatkan orang-orang lama di Game of Thrones kemarin atau bintang-bintang baru ?
+
+Kapan pembuatannya di mulai? baiknya kita tunggu saja kabarnya dari HBO.
