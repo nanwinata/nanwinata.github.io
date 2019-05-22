@@ -16,8 +16,7 @@ Yang bertanggung jawab mengurusi    lalu lintas _traffic_ media sosial hanya mem
 
 Apa itu CDN? CDN adalah _Content Delivery Network_ yang fungsinya mempercepat pengiriman konten statis seperti video, gambar, css , javascript dan lain-lain. Ketika host CDNnya di blokir maka user yang menggunakan media sosial tersebut tidak akan bisa membuka konten dan yang pasti tidak akan bisa upload konten tersebut dikarenakan semuanya melewati CDN ini.
 
-    <span class="spoiler">facebook cdn: *.fbcdn.net
-    instagram cdn: *.cdninstagram.com
+    <span class="spoiler">facebook cdn: *.fbcdn.net , instagram cdn: *.cdninstagram.com
     </span>
 
 Jadi , siapa yang bisa memblokir ini? Tentu saja penyedia layanan internet publik yang diminta pemerintah untuk melakukan pemblokiran CDN konten ini.
