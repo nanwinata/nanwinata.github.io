@@ -3,7 +3,7 @@ layout: post
 title: About Bundler
 author: admin
 categories:
-- Jekyll
+- IT
 image: assets/images/2.jpg
 rating: "3"
 
