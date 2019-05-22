@@ -32,3 +32,5 @@ fields:
 - type: number
   name: rating
   label: rating
+pages:
+- _posts/menanti-game-of-thrones-prequel-the-bloodmoon.md
