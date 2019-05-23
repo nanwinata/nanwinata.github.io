@@ -17,6 +17,18 @@ hidden: false
 rating: 5
 
 ---
+Ngeblog menggunakan Github, Jekyll dan Forestry ini agaknya masih agak langka di Indonesia. Banyak blogger masih banyak menggunakan wordpress , blogspot dll.
+
+Masih banyak static hosting yang mendukung pembuatan blog dan sampai sekarang bertambah terus. Tapi kali ini kita bahas dulu Github + Jekyll dan Forestry.
+
+Jadi ada 4 hal yang  disiapkan:
+
+1. Account github.
+2. Jekyll theme
+3. Account forestry. ( untuk posting )
+4. Domain
+5. Waktu yang cukup untuk belajar.
+
 **Buat account github terlebih dahulu.**
 
 * Langsung aja ke [https://github.com/join?source=header-home](https://github.com/join?source=header-home "https://github.com/join?source=header-home")
