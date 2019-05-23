@@ -12,7 +12,7 @@ tags:
 - Jekyll
 image: https://nanwinata.github.io/uploads/jekyll.png
 description: ''
-featured: true
+featured: false
 hidden: false
 rating: 5
 
