@@ -10,50 +10,48 @@ tags:
 - Forestry
 - Github
 - Jekyll
-image: https://nanwinata.github.io/uploads/forking.png
+image: https://nanwinata.github.io/uploads/jekyll.png
 description: ''
 featured: true
 hidden: false
-rating: 
+rating: 5
 
 ---
-Membuat account github terlebih dahulu.
+**Buat account github terlebih dahulu.**
 
-Langsung aja ke [https://github.com/join?source=header-home](https://github.com/join?source=header-home "https://github.com/join?source=header-home")
+* Langsung aja ke [https://github.com/join?source=header-home](https://github.com/join?source=header-home "https://github.com/join?source=header-home")
 
-isi data sampai kelar dan konfirmasi email.
+isi data sampai kelar dan konfirmasi email.Bikin repository di https://github.com/new
+
+isi nama repositorynya dengan ( _usernameagan.github.io_ )
 
 Tinggalkan github sebentar.
 
-Kemudian kita cari theme Jekyll yang gratis.
+* Kemudian kita cari theme Jekyll yang gratis.
 
 Kita bisa langsung forking theme tersebut melalui github.
 
-Caranya gampang.
+_Caranya gampang :_ 
 
-\- Cari theme gratis Jekyll , saya berikan satu [https://github.com/wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll "https://github.com/wowthemesnet/mundana-theme-jekyll")
+Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
-  ini theme bagus dan keren.
+*  Cari theme gratis Jekyll , saya berikan satu [https://github.com/wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll "https://github.com/wowthemesnet/mundana-theme-jekyll")
 
-  Cara fork saya jelaskan dengan gambar.
+**Forking dibagian kanan atas**
 
-  Dan tunggu proses forknya selesai.
+![](https://nanwinata.github.io/uploads/forking.png)
 
-  
+![](https://nanwinata.github.io/uploads/prosesfork.png)
 
-  ![](https://nanwinata.github.io/uploads/forking.png)
-
-  
-
-  
-
-\- Setelah selesai fork themes tinggal di rename repository tadi menjadi repository github pages agan dibagian setting.
+* - Setelah selesai fork themes tinggal di rename repository tadi menjadi repository github pages agan dibagian setting.
 
 [https://github.com/usernameagan/mundana-theme-jekyll/settings](https://github.com/usernameagan/mundana-theme-jekyll/settings "https://github.com/usernameagan/mundana-theme-jekyll/settings") seperti di gambar.
 
 Langkah selanjutnya adalah edit config.yml
 
-kosongkan baseurl: '' 
+![](https://nanwinata.github.io/uploads/config.png)
+
+* Kosongkan baseurl: " "
 
 Untuk yang lain seperti analytics, disqus comment dll itu terserah aja.
 
@@ -61,9 +59,7 @@ Jadi saya asumsikan sudah di edit, saya contohkan config.yml saya deh.
 
 Jadi untuk theme setting saya anggap selesai, kalau ada  yang mau ditanyakan langsung comment aja.
 
- 
-
-Kita pindah ke Forestry
+* **_Kita pindah ke Forestry_**
 
 Sebelumnya saya jelaskan dulu Forestry ini akan digunakan untuk mendukung post di blog jekyll agan.
 
@@ -71,13 +67,15 @@ Jadi nanti agan cuma mengakses forestry untuk memposting sesuatu maka akan langs
 
 Forestry menawarkan harga bermacam-macam tapi tentu saja kita nyari yang gratisan aja sesuai judul.
 
-Langsung saja kesini [https://app.forestry.io/signup](https://app.forestry.io/signup "https://app.forestry.io/signup")
+* _Langsung saja kesini_ [_https://app.forestry.io/signup_](https://app.forestry.io/signup "https://app.forestry.io/signup")
 
 Sebaiknya register langsung tanpa sync dari account github, biar nanti setupnya nggak bikin agan bingung.
 
 Setelah login, masuklah ke dashboard forestry seperti gambar.
 
-Langkah selanjutnya add site lalu pilih Jekyll , selanjutnya pilih Github ( gambar octopus ) 
+![](https://nanwinata.github.io/uploads/addsite.png)
+
+* Langkah selanjutnya add site lalu pilih Jekyll , selanjutnya pilih Github ( gambar octopus )
 
 Langkah selanjutnya pilih repository github pages agan tadi, ingat sebelumnya github harus diloginkan dulu.
 
@@ -85,12 +83,14 @@ Pilih github pages usernameagan.github.io lalu dibawahnya pilih Master branch.
 
 Kalau github pagesnya sudah ready maka akan keluar Config file found.
 
-Next guest invite di skip aja lalu langsung IMPORT SITE dan tunggu prosesnya selesai.
+* Next guest invite di skip aja lalu langsung **_IMPORT SITE_** dan tunggu prosesnya selesai.
 
 Maka akan keluar seperti gambar dibawah :
 
-Mark as done semua lalu buka github pages agan.
+![](https://nanwinata.github.io/uploads/configfound.png)
+
+* _Mark as done_ semua opsi lalu buka github pages agan.
 
 Kalau prosesnya benar maka otomatis pembuatan blognya selesai.
 
-Proses gimana cara posting akan dibahas di postingan saya selanjutnya.
+Proses gimana cara posting di **_forestry_** akan dibahas di postingan saya selanjutnya.
