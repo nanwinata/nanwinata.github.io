@@ -92,7 +92,6 @@ Maka akan keluar seperti gambar dibawah :
 ![](https://nanwinata.github.io/uploads/configfound.png)
 
 * _Mark as done_ semua opsi lalu buka github pages agan.
+* Jika prosesnya benar maka otomatis pembuatan blognya selesai.
 
-Kalau prosesnya benar maka otomatis pembuatan blognya selesai.
-
-Proses gimana cara posting di **_forestry_** akan dibahas di postingan saya selanjutnya.
+Cara posting di **_forestry_** akan dibahas di postingan saya selanjutnya berikut template postingnya.
