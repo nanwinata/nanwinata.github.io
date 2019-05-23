@@ -18,9 +18,9 @@ Di sisi lain orang yang menemukan celah ini kadang diberikan hadiah oleh pemilik
 
 Balik lagi ke judul _Hall of Fame._
 
-Setelah saya melaporkan celah tersebut maka sang pemilik situs mengkonfirmasi vurnerability tersebut. Setelah melakukan patch di celah tersebut, pemilik situs menginformasikan kalau celah itu valid. Dan menawarkan nama saya dipajang di Hall of Fame situs mereka tersebut. Yang jelas, saya nggak nolak.
+Setelah saya melaporkan celah tersebut maka sang pemilik situs mengkonfirmasi vurnerability tersebut. Kemudian mereka melakukan patch di celah tersebut dan menginformasikan kalau celah itu valid. Akhirnya mereka menawarkan nama saya dipajang di Hall of Fame situs mereka tersebut. Yang jelas, saya nggak nolak haha.
 
-Jadilah nama dan twitter saya dipanjang di Hall of Fame website mereka.
+Jadilah nama dan twitter  dipanjang di Hall of Fame website mereka.
 
     https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html
     
