@@ -21,11 +21,7 @@ rating: 5
 
 * Langsung aja ke [https://github.com/join?source=header-home](https://github.com/join?source=header-home "https://github.com/join?source=header-home")
 
-isi data sampai kelar dan konfirmasi email.
-
-Bikin repository di https://github.com/new
-
-Tinggalkan github sebentar.
+Isi data sampai kelar dan konfirmasi email.
 
 * Kemudian kita cari theme Jekyll yang gratis.
 
@@ -35,7 +31,7 @@ _Caranya gampang :_
 
 Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
-* Cari theme gratis Jekyll , saya berikan satu 
+* Cari theme gratis Jekyll , saya berikan satu
 * [https://github.com/wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll "https://github.com/wowthemesnet/mundana-theme-jekyll")
 
 **Forking dibagian kanan atas**
