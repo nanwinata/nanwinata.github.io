@@ -21,7 +21,9 @@ rating: 5
 
 * Langsung aja ke [https://github.com/join?source=header-home](https://github.com/join?source=header-home "https://github.com/join?source=header-home")
 
-isi data sampai kelar dan konfirmasi email.Bikin repository di https://github.com/new
+isi data sampai kelar dan konfirmasi email.
+
+Bikin repository di https://github.com/new
 
 isi nama repositorynya dengan ( _usernameagan.github.io_ )
 
