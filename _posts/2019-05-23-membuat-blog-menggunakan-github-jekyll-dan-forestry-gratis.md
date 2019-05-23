@@ -25,8 +25,6 @@ isi data sampai kelar dan konfirmasi email.
 
 Bikin repository di https://github.com/new
 
-isi nama repositorynya dengan ( _usernameagan.github.io_ )
-
 Tinggalkan github sebentar.
 
 * Kemudian kita cari theme Jekyll yang gratis.
