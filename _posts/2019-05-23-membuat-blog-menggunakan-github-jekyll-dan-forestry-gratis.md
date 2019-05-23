@@ -31,7 +31,9 @@ Jadi ada 4 hal yang  disiapkan:
 
 **Buat account github terlebih dahulu.**
 
-* Langsung aja ke [https://github.com/join?source=header-home](https://github.com/join?source=header-home "https://github.com/join?source=header-home")
+* Langsung aja ke 
+
+      https://github.com/join?source=header-home
 
 Isi data sampai kelar dan konfirmasi email.
 
@@ -43,8 +45,9 @@ _Caranya gampang :_
 
 Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
-* Cari theme gratis Jekyll , saya berikan satu
-* [https://github.com/wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll "https://github.com/wowthemesnet/mundana-theme-jekyll")
+* Cari theme gratis Jekyll , saya kasih contoh satu.
+
+      https://github.com/wowthemesnet/mundana-theme-jekyll
 
 **Forking dibagian kanan atas**
 
@@ -55,7 +58,9 @@ Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 * Setelah selesai fork themes tinggal di rename repository tadi menjadi repository github pages agan dibagian setting.
 * ![](https://nanwinata.github.io/uploads/githubpages.png)
 
-[https://github.com/usernameagan/mundana-theme-jekyll/settings](https://github.com/usernameagan/mundana-theme-jekyll/settings "https://github.com/usernameagan/mundana-theme-jekyll/settings") seperti di gambar.
+      https://github.com/[usernameagan]/mundana-theme-jekyll/settings 
+
+Seperti gambar dibawah ini:
 
 Langkah selanjutnya adalah edit config.yml
 
@@ -77,7 +82,9 @@ Jadi nanti agan cuma mengakses forestry untuk memposting sesuatu maka akan langs
 
 Forestry menawarkan harga bermacam-macam tapi tentu saja kita nyari yang gratisan aja sesuai judul.
 
-* _Langsung saja kesini_ [_https://app.forestry.io/signup_](https://app.forestry.io/signup "https://app.forestry.io/signup")
+* _Langsung saja kesini_ 
+
+      https://app.forestry.io/signup
 
 Sebaiknya register langsung tanpa sync dari account github, biar nanti setupnya nggak bikin agan bingung.
 
@@ -102,7 +109,9 @@ Maka akan keluar seperti gambar dibawah :
 * _Mark as done_ semua opsi lalu buka github pages agan.
 * Jika prosesnya benar maka otomatis pembuatan blognya selesai.
 
-Lalu yang terakhir tinggal buka github pages agan yang udah dibuat tadi https://usernameagan.github.io
+Lalu yang terakhir tinggal buka github pages agan yang udah dibuat tadi 
+
+    https://usernameagan.github.io
 
 Github pagesnya juga bisa di add domain atau subdomain.
 
