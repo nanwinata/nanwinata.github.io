@@ -17,7 +17,7 @@ hidden: false
 rating: 5
 
 ---
-Ngeblog menggunakan Github, Jekyll dan Forestry ini agaknya masih agak langka di Indonesia. Banyak blogger masih banyak menggunakan wordpress , blogspot dll.
+Ngeblog menggunakan Github, Jekyll dan Forestry ini sepertinya masih agak langka di Indonesia. Banyak blogger masih banyak menggunakan wordpress , blogspot dll.
 
 Masih banyak static hosting yang mendukung pembuatan blog dan sampai sekarang bertambah terus. Tapi kali ini kita bahas dulu Github + Jekyll dan Forestry.
 
