@@ -21,7 +21,7 @@ Ngeblog menggunakan Github, Jekyll dan Forestry ini agaknya masih agak langka di
 
 Masih banyak static hosting yang mendukung pembuatan blog dan sampai sekarang bertambah terus. Tapi kali ini kita bahas dulu Github + Jekyll dan Forestry.
 
-Jadi ada 4 hal yang  disiapkan:
+Jadi ada 5 hal yang  disiapkan:
 
 1. **Account github.**
 2. **Jekyll theme**
