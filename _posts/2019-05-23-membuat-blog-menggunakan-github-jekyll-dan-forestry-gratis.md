@@ -90,4 +90,14 @@ Maka akan keluar seperti gambar dibawah :
 * _Mark as done_ semua opsi lalu buka github pages agan.
 * Jika prosesnya benar maka otomatis pembuatan blognya selesai.
 
+Lalu yang terakhir tinggal buka github pages agan yang udah dibuat tadi https://usernameagan.github.io
+
+Github pagesnya juga bisa di add domain atau subdomain.
+
+Dibagian github setting seperti gambar dibawah ini.
+
+![](https://nanwinata.github.io/uploads/adddomain.png)
+
 Cara posting di **_forestry_** akan dibahas di postingan saya selanjutnya berikut template postingnya.
+
+Terima kasih sudah berkunjung, happy blogging.
