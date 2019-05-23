@@ -60,7 +60,7 @@ Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
       https://github.com/[usernameagan]/mundana-theme-jekyll/settings 
 
-Seperti gambar dibawah ini:
+Seperti gambar di atas 
 
 Langkah selanjutnya adalah edit config.yml
 
