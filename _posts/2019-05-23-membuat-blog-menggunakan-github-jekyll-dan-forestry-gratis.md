@@ -31,11 +31,11 @@ Tinggalkan github sebentar.
 
 Kita bisa langsung forking theme tersebut melalui github.
 
-_Caranya gampang :_ 
+_Caranya gampang :_
 
 Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
-*  Cari theme gratis Jekyll , saya berikan satu [https://github.com/wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll "https://github.com/wowthemesnet/mundana-theme-jekyll")
+* Cari theme gratis Jekyll , saya berikan satu [https://github.com/wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll "https://github.com/wowthemesnet/mundana-theme-jekyll")
 
 **Forking dibagian kanan atas**
 
@@ -43,7 +43,7 @@ Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
 ![](https://nanwinata.github.io/uploads/prosesfork.png)
 
-* - Setelah selesai fork themes tinggal di rename repository tadi menjadi repository github pages agan dibagian setting.
+* Setelah selesai fork themes tinggal di rename repository tadi menjadi repository github pages agan dibagian setting.
 
 [https://github.com/usernameagan/mundana-theme-jekyll/settings](https://github.com/usernameagan/mundana-theme-jekyll/settings "https://github.com/usernameagan/mundana-theme-jekyll/settings") seperti di gambar.
 
