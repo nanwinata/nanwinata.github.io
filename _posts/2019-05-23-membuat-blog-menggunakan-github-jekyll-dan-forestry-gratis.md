@@ -79,7 +79,7 @@ Setelah login, masuklah ke dashboard forestry seperti gambar.
 
 * Langkah selanjutnya add site lalu pilih Jekyll , selanjutnya pilih Github ( gambar octopus )
 
-Langkah selanjutnya pilih repository github pages agan tadi, ingat sebelumnya github harus diloginkan dulu.
+Pilih repository github pages agan tadi, ingat sebelumnya github harus diloginkan dulu.
 
 Pilih github pages usernameagan.github.io lalu dibawahnya pilih Master branch.
 
