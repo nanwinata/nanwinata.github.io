@@ -23,11 +23,11 @@ Masih banyak static hosting yang mendukung pembuatan blog dan sampai sekarang be
 
 Jadi ada 4 hal yang  disiapkan:
 
-1. Account github.
-2. Jekyll theme
-3. Account forestry. ( untuk posting )
-4. Domain
-5. Waktu yang cukup untuk belajar.
+1. **Account github.**
+2. **Jekyll theme**
+3. **Account forestry. ( untuk posting )**
+4. **Domain**
+5. **Waktu yang cukup untuk belajar.**
 
 **Buat account github terlebih dahulu.**
 
