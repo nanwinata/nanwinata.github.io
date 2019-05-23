@@ -6,7 +6,7 @@ categories:
 - Politik
 - IT
 image: https://nanwinata.github.io/assets/images/fbdown.png
-featured: true
+featured: false
 hidden: false
 
 ---
