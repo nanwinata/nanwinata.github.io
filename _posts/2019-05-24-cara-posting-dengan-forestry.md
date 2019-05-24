@@ -21,7 +21,7 @@ rating: 5
 ---
 Ini adalah lanjutan tutorial membuat blog menggunakan Github + Jekyll + Forestry.
 
-Sekarang posting via forestry agak gampang karena fitur sample dari theme yang saya contohkan kemaren tinggal di clone aja.
+Posting via forestry agak gampang karena fitur sample dari theme yang saya contohkan kemaren tinggal di clone aja.
 
 Gimana cara clonenya?
 
