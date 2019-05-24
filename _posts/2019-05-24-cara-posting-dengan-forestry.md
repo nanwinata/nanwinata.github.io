@@ -30,12 +30,12 @@ Gimana cara clonenya?
 * Lalu klik dibagian kanan disamping Save draft kemudian akan keluar beberapa opsi salah satunya **Create Template** , pilih opsi tersebut.
 
   ![](https://nanwinata.github.io/uploads/templatecreate.png)
-* Lalu akan keluar create template from page, lalu tinggal di isi apa nama template posting yang diinginkan. 
+* Lalu akan keluar create template from page, lalu tinggal di isi apa nama template posting yang diinginkan.
 
   ![](https://nanwinata.github.io/uploads/create2.png)
 
 Dan template postingnya akan langsung di clone dan bisa digunakan langsung.
 
-Adapun cara lain yaitu create manual, disini bebas berkreasi mau seperti apa template posting yang di inginkan. Kalau saya pribadi menyarankan baiknya di clone aja, karena lebih mudah. Tapi sebelumnya di review dulu mana kira-kira template yang cocok dengan gaya postingan agan sendiri. Di sample postingan bawaan themenya sudah banyak di jelaskan dan tinggal dipilih mana yang disuka.
+> Adapun cara lain yaitu create manual, disini bebas berkreasi mau seperti apa template posting yang di inginkan. Kalau saya pribadi menyarankan baiknya di clone aja, karena lebih mudah. Tapi sebelumnya di review dulu mana kira-kira template yang cocok dengan gaya postingan agan sendiri. Di sample postingan bawaan themenya sudah banyak di jelaskan dan tinggal dipilih mana yang disuka.
 
 Selamat mencoba.
