@@ -14,7 +14,7 @@ image: https://nanwinata.github.io/uploads/jekyll.png
 description: ''
 featured: false
 hidden: false
-rating: 5
+rating: "5"
 
 ---
 Ngeblog menggunakan Github, Jekyll dan Forestry ini sepertinya masih agak langka di Indonesia. Banyak blogger masih banyak menggunakan wordpress , blogspot dll.
@@ -31,7 +31,7 @@ Jadi ada 5 hal yang  disiapkan:
 
 **Buat account github terlebih dahulu.**
 
-* Langsung aja ke 
+* Langsung aja ke
 
       https://github.com/join?source=header-home
 
@@ -60,7 +60,7 @@ Saya kasih theme bagus dan gratis untuk kita fork nantinya.
 
       https://github.com/[usernameagan]/mundana-theme-jekyll/settings 
 
-Seperti gambar di atas 
+Seperti gambar di atas
 
 Langkah selanjutnya adalah edit config.yml
 
@@ -82,7 +82,7 @@ Jadi nanti agan cuma mengakses forestry untuk memposting sesuatu maka akan langs
 
 Forestry menawarkan harga bermacam-macam tapi tentu saja kita nyari yang gratisan aja sesuai judul.
 
-* _Langsung saja kesini_ 
+* _Langsung saja kesini_
 
       https://app.forestry.io/signup
 
@@ -109,7 +109,7 @@ Maka akan keluar seperti gambar dibawah :
 * _Mark as done_ semua opsi lalu buka github pages agan.
 * Jika prosesnya benar maka otomatis pembuatan blognya selesai.
 
-Lalu yang terakhir tinggal buka github pages agan yang udah dibuat tadi 
+Lalu yang terakhir tinggal buka github pages agan yang udah dibuat tadi
 
     https://usernameagan.github.io
 
@@ -119,6 +119,6 @@ Dibagian github setting seperti gambar dibawah ini.
 
 ![](https://nanwinata.github.io/uploads/adddomain.png)
 
-Cara posting di **_forestry_** akan dibahas di postingan saya selanjutnya berikut template postingnya.
+Cara posting di [**forestry**](https://nanwinata.me/cara-posting-dengan-forestry/ "Cara posting dengan forestry") akan dibahas di postingan saya selanjutnya berikut template postingnya.
 
 Terima kasih sudah berkunjung, happy blogging.
