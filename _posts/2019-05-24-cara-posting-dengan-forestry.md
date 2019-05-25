@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cara posting dengan forestry
+title: Cara posting dengan forestry.io
 author: admin
 categories:
 - Blog
@@ -16,7 +16,7 @@ image: https://nanwinata.github.io/uploads/forestry.jpg
 description: ''
 featured: true
 hidden: false
-rating: 5
+rating: "5"
 
 ---
 Ini adalah lanjutan tutorial membuat blog menggunakan Github + Jekyll + Forestry.
