@@ -3,7 +3,7 @@ layout: post
 title: Selamat Idul Fitri 1440 H
 author: admin
 categories: []
-image: ''
+image: https://nanwinata.github.io/uploads/idulfitri.PNG
 featured: true
 hidden: false
 
