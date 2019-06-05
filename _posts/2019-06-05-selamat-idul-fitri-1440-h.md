@@ -9,6 +9,4 @@ hidden: false
 
 ---
 
-![](https://nanwinata.github.io/uploads/idulfitri.PNG)
-
 > _Eid days are meant to celebrate the goals and the achievements that make you happiest. The ideals you believe in, the dream you love the best. Happy Eid Mubarak !_
