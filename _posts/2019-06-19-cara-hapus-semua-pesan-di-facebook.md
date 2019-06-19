@@ -29,9 +29,9 @@ Nah itu dia extensionnya udah ke install.
 
 Lalu tinggal klik tanda X tersebut maka akan mengarah ke page message facebook kamu.
 
-![](https://nanwinata.github.io/uploads/DELETE.png)
+![](https://nanwinata.github.io/uploads/DELETE-1.png)
 
-Langsung delete all messages. 
+Langsung delete all messages.
 
 Kemudian semua message di "list" ( yang keliatan ) akan di hapus semua. Tunggu beberapa saat sampai pesan lama yang lain muncul dan lakukan berulang-ulang sampai semua pesan terhapus.
 
