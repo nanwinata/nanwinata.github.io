@@ -8,7 +8,7 @@ categories:
 - Tutorial
 - IT
 tags: []
-image: "/uploads/DELETE-1.png"
+image: https://nanwinata.me/uploads/DELETE-1.png
 description: ''
 featured: false
 hidden: false
