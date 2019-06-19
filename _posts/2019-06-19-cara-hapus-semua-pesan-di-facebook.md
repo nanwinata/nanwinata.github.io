@@ -8,11 +8,11 @@ categories:
 - Tutorial
 - IT
 tags: []
-image: ''
+image: "/uploads/DELETE-1.png"
 description: ''
 featured: false
 hidden: false
-rating: 5
+rating: "5"
 
 ---
 Cara bersihkan semua pesan di facebook gampang banget, tapi mesti dibersihkan melalui laptop atau komputer.
