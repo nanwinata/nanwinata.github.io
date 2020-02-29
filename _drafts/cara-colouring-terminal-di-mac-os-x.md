@@ -39,7 +39,7 @@ Ada 4 hal penting :
 
   Lalu install Homebrew :
 
-    /usr/bin/ruby -e "$(curl -fsSLhttps://raw.githubusercontent.com/Homebrew/install/master/install)"
+      /usr/bin/ruby -e "$(curl -fsSLhttps://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 Install iTerm2
 
@@ -57,7 +57,6 @@ Command :
 
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-  
 lalu check installasi zshnya dengan command:
 
     zsh --version
@@ -80,7 +79,7 @@ Setelah di ganti dengan tema theme yang disukai lalu jalankan command
 
     source ~/.zhrc
 
-Untuk tema themenya silahkan pilih sendiri di website Oh My ZSH, ini listnya 
+Untuk tema themenya silahkan pilih sendiri di website Oh My ZSH, ini listnya
 
     https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
