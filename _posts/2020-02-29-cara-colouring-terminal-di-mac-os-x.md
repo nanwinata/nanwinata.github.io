@@ -9,7 +9,7 @@ categories:
 - Git
 - IT
 - tutorial
-image: ''
+image: https://nanwinata.github.io/uploads/AE1559F8-318B-4408-9BFD-905146D1D651.png
 featured: false
 hidden: false
 tags: []
