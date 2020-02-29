@@ -12,7 +12,7 @@ hidden: false
 ---
 Ada beberapa cara untuk menginstall Git di Mac OS X, tapi jika di Mac Os X terminal kamu sudah terinstall XCode maka Git sudah terinstall dengan sendirinya. Untuk mencari tau apakah itu sudah terinstall, jalankan
 
-$ git --version
+    $ git --version
 
 Jika sudah maka akan keluar "git version 2.7.0 ( Apple Git-66)"
 
@@ -23,16 +23,18 @@ Installer Git untuk Mac :
 3. Setelah selesai menginstall buka Terminal atau iTerm yang ada di Mac dan verify dulu apakah sudah terinstall :
 
        ╭─NAN@Milan.local ~
-
+       
        ╰─➤ git --version
-
+       
        git version 2.21.1 (Apple Git-122.3)
 4. Lalu lakukan Git configurasi :
 
        ╰─➤ git config --global user.name "nan winata"
-
+       
        ╭─NAN@Milan.local ~
-
+       
        ╰─➤ git config --global user.email "nanwinata@gmail.com"
 
-Selesai.
+Ok, bearti Git sudah jalan di Mac OS X kita.
+
+Happy coding.
