@@ -5,7 +5,7 @@ author: admin
 categories:
 - IT
 - tutorial
-image: ''
+image: https://nanwinata.github.io/uploads/7A9DAA55-3654-4E70-83A3-206764081B2C.png
 featured: true
 hidden: false
 
