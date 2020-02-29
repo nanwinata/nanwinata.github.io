@@ -12,6 +12,9 @@ categories:
 image: ''
 featured: false
 hidden: false
+tags: []
+description: ''
+rating: 
 
 ---
 Ketika Terminal default di Mac Os terlihat membosankan, buram maka membuat terminal itu lebih berwarna adalah jalan keluarnya.
