@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cara install app dengan Brew cask di Terminal
+title: Cara install dengan Brew cask di Terminal
 author: admin
 categories:
 - IT
