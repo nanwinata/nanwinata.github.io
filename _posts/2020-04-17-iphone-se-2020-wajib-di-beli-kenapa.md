@@ -17,13 +17,13 @@ rating: 5
 ---
 Akhirnya iPhone SE 2020 resmi di rilis oleh Apple, banyak rumor yang beredar mengenai produk special edition yang akhirnya kali ini terjawab.
 
-Dari segi bentukan sih, iPhone SE 2020 ini mirip sekali dengan iPhone 8. Tapi tunggu dulu chipset atau isi dalam produk ini sangat mengejutkan dibanding seri-seri sebelumnya.
+Dari segi bentukan sih, iPhone SE 2020 ini mirip sekali dengan iPhone 8.
 
 Apakah jeroan iPhone SE 2020 ini yang membuat seri ini wajib di beli? Mari kita simak beberapa point pentingnya.
 
 1. Teknologi
 
-   Meski iPhone SE 2020 ini memiliki wajah yang mirip sekali dengan iPhone 8 tapi di dalamnya memakai hardware terbaru. Prosesor yang digunakan adalah A13 Bionic yang digunakan juga di iPhone 11 dan iPhone 11 Pro. 
+   Meski iPhone SE 2020 ini memiliki wajah yang mirip sekali dengan iPhone 8 tapi di dalamnya memakai hardware terbaru. Prosesor yang digunakan adalah A13 Bionic yang digunakan juga di iPhone 11 dan iPhone 11 Pro.
 2. Sertifikasi IP67
 
    Apa itu? Ini berhubungan dengan standar ketahanan di dalam air yaitu sekitar 1 meter dalam 30 menit. Selain itu mereka menggunakan anti debu dan partikel kecil lainnya. Body iPhone SE 2020 ini juga di lapisi kaca sehingga terkesan kuat dan elegan.
