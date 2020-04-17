@@ -8,7 +8,7 @@ categories:
 - Iphone
 - Teknologi
 tags: []
-image: ''
+image: https://nanwinata.github.io/uploads/iphonese2020.jpeg
 description: ''
 featured: true
 hidden: false
