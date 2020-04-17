@@ -10,9 +10,9 @@ categories:
 tags: []
 image: ''
 description: ''
-featured: false
+featured: true
 hidden: false
-rating: 
+rating: 5
 
 ---
 Akhirnya iPhone SE 2020 resmi di rilis oleh Apple, banyak rumor yang beredar mengenai produk special edition yang akhirnya kali ini terjawab.
