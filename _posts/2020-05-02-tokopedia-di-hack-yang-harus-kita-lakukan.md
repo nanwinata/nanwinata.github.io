@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tokopedia di hack, yang harus kita lakukan
+title: Database Tokopedia di jebol, ini yang harus kita lakukan
 author: admin
 categories:
 - IT
