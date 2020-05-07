@@ -14,6 +14,10 @@ hidden: false
 rating: 
 
 ---
+Ada beberapa cara mendownload video dari youtube, udah banyak software-software tersedia dan juga udah banyak website youtube downloader di google.
+
+Ada lagi cara mudah mendownload video youtube di windows menggunakan terminal aja. Langsung aja ya ..
+
 Untuk yang menggunakan windows dapat menginstall Cygwin dulu.
 
 Cygwin dapat di download di :
@@ -25,11 +29,11 @@ setelah ter-install lalu selanjutnya kita install youtube-dl, masuk ke terminal 
 di asumsikan directory cygwin sekarang di c:\\cygwin , lalu buat folder baru khusus menyimpan file video yang udah di download.
 
     cygwin$ mkdir youtube
-
+    
     cygwin$ cd youtube
-
+    
     cygwin/youtute$ sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
-
+    
     cygwin/youtube$ sudo chmod a+rx /usr/local/bin/youtube-dl
 
 atau kalau di cygwinnya tidak punya command curl, bisa menggunakan command "wget"
