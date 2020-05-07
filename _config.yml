@@ -2,8 +2,8 @@
 name: ''
 title: nan winata dot me~
 description: ''
-logo: assets/images/logo_size_invert.jpg
-favicon: assets/images/logo_size_invert.jpg
+logo: favicon.ico
+favicon: favicon.ico
 baseurl: ''
 google_analytics: UA-140676015-1
 disqus: nanwinata
