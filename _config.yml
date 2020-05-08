@@ -8,8 +8,7 @@ baseurl: ''
 google_analytics: UA-140676015-1
 disqus: nanwinata
 mailchimp-list: ''
-include:
-- _pages
+include: "- _pages"
 permalink: "/:title/"
 authors:
   admin:
@@ -41,7 +40,7 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
-adsense: disabled
+adsense: disable
 adsense-data-ad-client: ''
 adsense-data-ad-slot: ''
 lazyimages: disabled
