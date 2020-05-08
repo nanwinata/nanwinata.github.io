@@ -10,7 +10,7 @@ categories:
 tags: []
 image: https://nanwinata.github.io/uploads/iphonese2020.jpeg
 description: ''
-featured: true
+featured: false
 hidden: false
 rating: 5
 
