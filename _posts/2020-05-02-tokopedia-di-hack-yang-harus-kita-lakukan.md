@@ -12,9 +12,9 @@ tags:
 - tokopedia
 image: https://nanwinata.github.io/uploads/toped.jpeg
 description: ''
-featured: true
+featured: false
 hidden: false
-rating: 5
+rating: "5"
 
 ---
 Tokopedia adalah situs jual beli terbesar di Indonesia ini kabarnya berhasil dijebol. Kabar ini keluar setelah seseorang dari Raid forum memposting sebagian data yang di dapatnya dari situs Tokopedia. 
