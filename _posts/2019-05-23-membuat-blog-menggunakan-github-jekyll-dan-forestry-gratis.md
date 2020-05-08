@@ -12,9 +12,9 @@ tags:
 - Jekyll
 image: https://nanwinata.github.io/uploads/jekyll.png
 description: ''
-featured: false
+featured: true
 hidden: false
-rating: "5"
+rating: '5'
 
 ---
 Ngeblog menggunakan Github, Jekyll dan Forestry ini sepertinya masih agak langka di Indonesia. Banyak blogger masih banyak menggunakan wordpress , blogspot dll.
