@@ -11,7 +11,7 @@ image: https://nanwinata.github.io/uploads/RDP.jpg
 description: ''
 featured: true
 hidden: false
-rating: 
+rating: 5
 
 ---
 Pada menu windows yang ada di PC / desktop silahkan pilih menu berikut :
