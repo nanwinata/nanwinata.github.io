@@ -16,8 +16,8 @@ authors:
     display_name: nan
     gravatar: 918eef27057fe4886ec8ae10e86ed57e
     email: nanwinata@gmail.com
-    web: https://nanwinata.me
-    twitter: https://twitter.com/enanwn
+    web: https://nanwinata.com
+    twitter: https://twitter.com/_nanwn_
     description: Publisher, IT & Research Community
 plugins:
 - jekyll-paginate
