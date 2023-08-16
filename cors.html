@@ -17,7 +17,7 @@ function cors() {
       document.getElementById("TileContainer").innerHTML = alert(this.responseText);
     }
   };
-  xhttp.open("GET", "https://www.agoda.com/graphql/property", true);
+  xhttp.open("GET", "https://partnerhub.agoda.com/wp-json/wp/v2/pages/1234", true);
   xhttp.withCredentials = true;
   xhttp.send();
 }
