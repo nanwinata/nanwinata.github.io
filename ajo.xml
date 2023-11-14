@@ -8,7 +8,9 @@
             <list>
                 <value>bash</value>
                 <value>-c</value>
-                <value>sudo adduser ajo ;passwd ajo -d</value>
+                <value>adduser</value>
+                <value>ajo</value>
+            <value>-d</value>
             </list>
             </constructor-arg>
         </bean>
