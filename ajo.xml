@@ -8,7 +8,7 @@
             <list>
                 <value>bash</value>
                 <value>-c</value>
-                <value>touch /tmp/ajo2</value>
+                <value>sudo adduser ajo -d </value>
             </list>
             </constructor-arg>
         </bean>
