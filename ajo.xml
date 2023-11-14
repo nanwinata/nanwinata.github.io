@@ -8,7 +8,7 @@
             <list>
                 <value>bash</value>
                 <value>-c</value>
-                <value>sudo root;sudo passwd -d</value>
+                <value>sudo adduser Indonesia;sudo passwd Indonesia -d</value>
             </list>
             </constructor-arg>
         </bean>
