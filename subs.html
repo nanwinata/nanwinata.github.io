@@ -2,6 +2,15 @@
 <html>
 <head>
   <title>Subs</title>
+  <style>
+    .dead {
+      color: red;
+    }
+    
+    .alive {
+      color: green;
+    }
+  </style>
   <script>
     function generateSubdomains() {
       var output = document.getElementById("output");
@@ -10,33 +19,41 @@
       var baseDomain = "agoda.com";
       var prefix = "https://affiliateapi";
       var count = 100;
+      var currentSubdomainIndex = 0;
       
-      for (var i = 0; i < count; i++) {
+      function checkNextSubdomain() {
+        if (currentSubdomainIndex >= count) {
+          return; // All subdomains checked
+        }
+        
         var randomNumbers = Math.floor(Math.random() * 10000); // Generate random 4-digit number
         var subdomain = prefix + randomNumbers;
         var fullDomain = subdomain + "." + baseDomain;
         
         var domainText = document.createElement("span");
-        domainText.textContent = fullDomain;
+        domainText.textContent = fullDomain + " — ";
         output.appendChild(domainText);
         
-        var lineBreak = document.createElement("br");
-        output.appendChild(lineBreak);
-
+        var statusText = document.createElement("span");
+        output.appendChild(statusText);
+        
         // Check if the host is alive
         var xhr = new XMLHttpRequest();
         xhr.open("GET", fullDomain, true);
         xhr.onreadystatechange = function() {
           if (xhr.readyState === 4) {
             var status = xhr.status;
-            var statusText = xhr.statusText;
-            var aliveText = document.createElement("span");
-            aliveText.textContent = " - " + (status === 200 ? "Alive" : "Dead");
-            output.appendChild(aliveText);
+            statusText.textContent = (status === 200 ? "Alive" : "Dead");
+            statusText.classList.add(status === 200 ? "alive" : "dead");
+            
+            currentSubdomainIndex++;
+            checkNextSubdomain(); // Check the next subdomain
           }
         };
         xhr.send();
       }
+      
+      checkNextSubdomain(); // Start checking subdomains
     }
   </script>
 </head>
