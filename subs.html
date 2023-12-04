@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Subs</title>
+  <script>
+    function generateSubdomains() {
+      var output = document.getElementById("output");
+      output.innerHTML = ""; // Clear previous output
+      
+      var baseDomain = "agoda.com";
+      var prefix = "https://affiliateapi";
+      var count = 100;
+      
+      for (var i = 0; i < count; i++) {
+        var randomNumbers = Math.floor(Math.random() * 10000); // Generate random 4-digit number
+        var subdomain = prefix + randomNumbers;
+        var fullDomain = subdomain + "." + baseDomain;
+        
+        var domainText = document.createElement("span");
+        domainText.textContent = fullDomain;
+        output.appendChild(domainText);
+        
+        var lineBreak = document.createElement("br");
+        output.appendChild(lineBreak);
+
+        // Check if the host is alive
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", fullDomain, true);
+        xhr.onreadystatechange = function() {
+          if (xhr.readyState === 4) {
+            var status = xhr.status;
+            var statusText = xhr.statusText;
+            var aliveText = document.createElement("span");
+            aliveText.textContent = " - " + (status === 200 ? "Alive" : "Dead");
+            output.appendChild(aliveText);
+          }
+        };
+        xhr.send();
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>Agoda AffiliateApi generator</h1>
+  <button onclick="generateSubdomains()">Generate Subdomains</button>
+  <div id="output"></div>
+</body>
+</html>
