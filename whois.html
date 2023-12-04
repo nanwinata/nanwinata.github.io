@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Domain Check</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Domain Check</h1>
+    <label for="domainInput">Domain:</label>
+    <input type="text" id="domainInput">
+    <button onclick="performDomainCheck()">Check</button>
+    
+    <h2>WHOIS Lookup</h2>
+    <table id="whoisTable">
+        <tr>
+            <th>Field</th>
+            <th>Value</th>
+        </tr>
+    </table>
+    
+    <h2>Related Domains</h2>
+    <table id="relatedDomainsTable">
+        <tr>
+            <th>Domain</th>
+        </tr>
+    </table>
+    
+    <script>
+        function performDomainCheck() {
+            const domain = document.getElementById('domainInput').value;
+            
+            // Clear previous results
+            clearTable('whoisTable');
+            clearTable('relatedDomainsTable');
+            
+            // WHOIS Lookup using IANA API
+            fetch(`https://rdap.iana.org/domain/${domain}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (Object.keys(data).length > 0) {
+                        populateTable('whoisTable', data);
+                    } else {
+                        displayNoResultsMessage('whoisTable');
+                    }
+                })
+                .catch(error => {
+                    displayError('whoisTable', error.message);
+                });
+            
+            // Related Domains using lookup.icann.org
+            fetch(`https://lookup.icann.org/api/whois?name=${domain}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.relatedDomains.length > 0) {
+                        populateRelatedDomainsTable('relatedDomainsTable', data);
+                    } else {
+                        displayNoResultsMessage('relatedDomainsTable');
+                    }
+                })
+                .catch(error => {
+                    displayError('relatedDomainsTable', error.message);
+                });
+        }
+        
+        function clearTable(tableId) {
+            const table = document.getElementById(tableId);
+            while (table.rows.length > 1) {
+                table.deleteRow(1);
+            }
+        }
+        
+        function populateTable(tableId, data) {
+            const table = document.getElementById(tableId);
+            for (const [field, value] of Object.entries(data)) {
+                if (typeof value === 'object') {
+                    for (const [subField, subValue] of Object.entries(value)) {
+                        const row = table.insertRow();
+                        const fieldCell = row.insertCell();
+                        const valueCell = row.insertCell();
+                        fieldCell.textContent = `${field}.${subField}`;
+                        valueCell.textContent = subValue !== null ? JSON.stringify(subValue) : '';
+                    }
+                } else {
+                    const row = table.insertRow();
+                    const fieldCell = row.insertCell();
+                    const valueCell = row.insertCell();
+                    fieldCell.textContent = field;
+                    valueCell.textContent = value !== null ? JSON.stringify(value) : '';
+                }
+            }
+        }
+        
+        function populateRelatedDomainsTable(tableId, data) {
+            const table = document.getElementById(tableId);
+            for (const domain of data.relatedDomains) {
+                const row = table.insertRow();
+                const domainCell = row.insertCell();
+                domainCell.textContent = domain.name;
+            }
+        }
+        
+        function displayNoResultsMessage(tableId) {
+            const table = document.getElementById(tableId);
+            const row = table.insertRow();
+            const messageCell = row.insertCell();
+            messageCell.colSpan = 2;
+            messageCell.textContent = 'No results available for the given domain.';
+        }
+        
+        function displayError(tableId, errorMessage) {
+            const table = document.getElementById(tableId);
+            const row = table.insertRow();
+            const errorCell = row.insertCell();
+            errorCell.colSpan = 2;
+            errorCell.textContent = 'Error: ' + errorMessage;
+        }
+    </script>
+</body>
+</html>
