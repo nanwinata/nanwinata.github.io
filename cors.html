@@ -17,7 +17,7 @@ function cors() {
       document.getElementById("mockDataEnabled").innerHTML = alert(this.responseText);
     }
   };
-  xhttp.open("GET", "https://agoda.com/api/en-us/mmbc/GetChatSetup", true);
+  xhttp.open("GET", "https://agoda.com/graphql", true);
   xhttp.withCredentials = true;
   xhttp.send();
 }
